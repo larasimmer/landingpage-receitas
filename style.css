@@ -14,7 +14,7 @@
 }
 
 .cor-especial {
-	color: darkred;
+	color: darkred !important;
 }
 
 .card {
